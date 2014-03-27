@@ -1,4 +1,0 @@
-globallogic
-===========
-
-interview question
