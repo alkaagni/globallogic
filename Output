@@ -1,0 +1,9 @@
+C:\Projects\Java\POC\test.csv
+headers: [Year, Month, Company A,  Company B, Company C,  Company D,  Company N]
+data: [1990,  Jan,  10,  15,  20,  31,  50]
+data: [1990,  Feb,  11,  14,  21,  30,  51]
+Company B highest price 15.0 is  Jan 1990
+Company C highest price 21.0 is  Feb 1990
+Company N highest price 51.0 is  Feb 1990
+Company A highest price 11.0 is  Feb 1990
+Company D highest price 31.0 is  Jan 1990
